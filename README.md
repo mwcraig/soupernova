@@ -22,7 +22,7 @@ pip install soupernova
 
 Who wouldn't want this:
 
-![Stars with confetti stars exploding from them]()
+![Stars with confetti stars exploding from them](https://github.com/user-attachments/assets/884e42f6-0868-48e9-abd1-74998ae3e5de)
 
 ## Usage
 
